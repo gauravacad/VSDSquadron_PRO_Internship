@@ -43,5 +43,5 @@ Detecting the Serial Port:
 1. Connect the VSD Squadron Pro board to your PC via USB.
 2. Open Device Manager (Win + X → **Device Manager`).
 3. Expand Ports (COM & LPT). You should see a new COM port appear, e.g., USB Serial Device (COM5).
-(https://github.com/user-attachments/assets/7815ccf0-da89-4769-acc0-d5237ea3a152)
+<img width="500" height="500" alt="Screenshot 2026-03-06 104148" src="https://github.com/user-attachments/assets/7815ccf0-da89-4769-acc0-d5237ea3a152" />
 
