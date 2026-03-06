@@ -15,4 +15,4 @@ The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the foll
 
 ## Powering Up the Board
 Connect the Type-C end of USB cable to the board as shown in below image and refer to Installation and Settings for programming the board. Do this step after software installation, which is a time consuming process
-![VSDSquadron PRO Board](image/)
+<img width="531" height="303" alt="Screenshot 2026-03-06 102639" src="https://github.com/user-attachments/assets/a6573829-e9dc-4e0c-8147-ac8016100267" />
