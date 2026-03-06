@@ -19,9 +19,9 @@ The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the foll
 
 ## Download drivers
 - Download Zadig from https://zadig.akeo.ie/
-- Open Zadig from the location of the folder where you downloaded it. Click on ”Options” tab and select ”List All Devices”. Then select ”Dual RS-232-HS (Interface 0) as represented by 2 in Figure 4. Choose ”libusb-win32” software as represented by 3 in Figure 4. Finally click on
+- Open Zadig from the location of the folder where you downloaded it. Click on ”Options” tab and select ”List All Devices”. Then select ”Dual RS-232-HS (Interface 0) as represented by 2 in Figure 1. Choose ”libusb-win32” software as represented by 3 in Figure 1. Finally click on
 ”Install or Reinstall Driver” as represented by 4 in same Figure 1
-<img width="300" height="300" alt="Screenshot 2026-03-06 104148" src="https://github.com/user-attachments/assets/6eb584d9-4837-45b4-aa67-a5e211f807d1" />
+![Figure 1: Steps to install driver using Zadig]<img width="300" height="300" alt="Screenshot 2026-03-06 104148" src="https://github.com/user-attachments/assets/6eb584d9-4837-45b4-aa67-a5e211f807d1" />
 
 ## Download VSDSquadronPRO Tar GZ file
 - Download Freedom Studio, preferably on the D: drive or C: drive, from this link.
