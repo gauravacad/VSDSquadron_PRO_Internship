@@ -1,8 +1,8 @@
 Task-1 Installation and Settings
 
   
--Board Overview
-The VSDSquadron PRO RISC-V development boards features a RISC-V SoC with the following
+Board Overview
+-The VSDSquadron PRO RISC-V development boards features a RISC-V SoC with the following
 capabilities:
   *48-lead 6x6 QFN package
   *On-board 16MHz crystal
