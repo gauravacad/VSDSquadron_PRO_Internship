@@ -13,6 +13,13 @@ The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the foll
 - 32 Mbit Off-Chip (ISSI SPI Flash)  
 - USB-C type for Program, Debug, and Serial Communication
 
+## Download drivers
+-Download Zadig from https://zadig.akeo.ie/
+-Open Zadig from the location of the folder where you downloaded it. Click on ”Options” tab and select ”List All Devices”. Then select ”Dual RS-232-HS (Interface 0) as represented by 2
+in Figure 4. Choose ”libusb-win32” software as represented by 3 in Figure 4. Finally click on
+”Install or Reinstall Driver” as represented by 4 in same Figure 1
+
+
 ## Powering Up the Board
-Connect the Type-C end of USB cable to the board as shown in below image and refer to Installation and Settings for programming the board. Do this step after software installation, which is a time consuming process
-<img width="531" height="303" alt="Screenshot 2026-03-06 102639" src="https://github.com/user-attachments/assets/a6573829-e9dc-4e0c-8147-ac8016100267" />
+Connect the Type-C end of USB cable to the board as shown in below image and refer to Installation and Settings for programming the board.
+<img width="50" height="50" alt="Screenshot 2026-03-06 102639" src="https://github.com/user-attachments/assets/a6573829-e9dc-4e0c-8147-ac8016100267" />
