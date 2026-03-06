@@ -1,6 +1,6 @@
-## Task-1 Installation and Settings
+# Task-1 Installation and Settings
 
-  
+
 ## Board Overview
 
 The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the following capabilities:
@@ -12,3 +12,7 @@ The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the foll
 - Dedicated Quad-SPI (QSPI) flash interface  
 - 32 Mbit Off-Chip (ISSI SPI Flash)  
 - USB-C type for Program, Debug, and Serial Communication
+
+## Powering Up the Board
+Connect the Type-C end of USB cable to the board as shown in below image and refer to Installation and Settings for programming the board. Do this step after software installation, which is a time consuming process
+![VSDSquadron PRO Board](image/)
