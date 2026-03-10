@@ -21,8 +21,10 @@ The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the foll
 - Open Zadig from the location of the folder where you downloaded it. Click on ”Options” tab and select ”List All Devices”. Then select ”Dual RS-232-HS (Interface 0) as represented by 2 in Figure 1. Choose ”libusb-win32” software as represented by 3 in Figure 1. Finally click on
 ”Install or Reinstall Driver” as represented by 4 in same Figure 1
 
+<p align="center">
 <img width="500" height="500" alt="Screenshot 2026-03-06 104148" src="https://github.com/user-attachments/assets/6eb584d9-4837-45b4-aa67-a5e211f807d1" />
-<figcaption>Figure 1: Steps to install driver using Zadig</figcaption>
+<p align="center"><em>Figure 1: Steps to install driver using Zadig</em></p>
+
 
 
 ## Download VSDSquadronPRO Tar GZ file
@@ -42,5 +44,5 @@ Detecting the Serial Port:
 1. Connect the VSD Squadron Pro board to your PC via USB.
 2. Open Device Manager (Win + X → **Device Manager`).
 3. Expand Ports (COM & LPT). You should see a new COM port appear, e.g., USB Serial Device (COM5).
-<img width="581" height="422" alt="image" src="https://github.com/user-attachments/assets/cbfbd417-b2e1-4464-bc67-48dd7ee2a807" />
+<img width="1162" height="844" alt="Screenshot 2026-03-10 172743" src="https://github.com/user-attachments/assets/90e06dde-069f-4020-a56d-26b8ad003143" />
 
