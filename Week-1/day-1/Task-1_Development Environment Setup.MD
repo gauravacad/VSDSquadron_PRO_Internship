@@ -32,17 +32,21 @@ The VSDSquadron PRO RISC-V development board features a RISC-V SoC with the foll
 - Right click on VSDSquadronPRO.tar and click on ”Extract All”, as shown in Figure 5.
 - Select the destination folder and click on ”Extract”.
 
+<p align="center">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3756b8bd-791d-4b3d-9516-5624012071ca" />
-
+<p align="center"></p>
 
 ## Powering Up the Board
 Connect the Type-C end of USB cable to the board as shown in below image and refer to Installation and Settings for programming the board.
+<p align="center">
 <img width="500" height="500" alt="Screenshot 2026-03-06 102639" src="https://github.com/user-attachments/assets/a6573829-e9dc-4e0c-8147-ac8016100267" />
+<p align="center"></p>
 
 ## Verification of Serial Communication with VSD Squadron Pro
 Detecting the Serial Port:
 1. Connect the VSD Squadron Pro board to your PC via USB.
 2. Open Device Manager (Win + X → **Device Manager`).
 3. Expand Ports (COM & LPT). You should see a new COM port appear, e.g., USB Serial Device (COM5).
-<img width="1162" height="844" alt="Screenshot 2026-03-10 172743" src="https://github.com/user-attachments/assets/90e06dde-069f-4020-a56d-26b8ad003143" />
-
+<p align="center">
+<img width="500" height="500" alt="Screenshot 2026-03-10 172743" src="https://github.com/user-attachments/assets/90e06dde-069f-4020-a56d-26b8ad003143" />
+<p align="center"></p>
